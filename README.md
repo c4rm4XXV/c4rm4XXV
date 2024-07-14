@@ -8,9 +8,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/c4rm4XXV/c4rm4XXV/output/snake.svg" alt="Snake animation" />
 
 ###
 
